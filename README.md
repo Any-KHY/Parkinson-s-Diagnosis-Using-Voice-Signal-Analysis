@@ -105,7 +105,7 @@ This was a group project. My primary contributions included:
 
 ---
 
-## 📚 Reference
+## Reference
 
 Sakar et al. (2018) – Parkinson’s Disease Classification using Voice Signals
 
